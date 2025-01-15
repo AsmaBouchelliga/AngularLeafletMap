@@ -1,0 +1,18 @@
+<div style="height: 500px" leaflet [leafletOptions]="options" >  
+    <div *ngFor="let m of markers" [leafletLayer]="m">
+</div>
+</div>
+<div class="details">
+<ng-container *ngIf="!!markerDetails"> 
+    
+        Titre :{{markerDetails.titre}} 
+        <br>
+        Longitude : {{markerDetails.longitude}}
+        <br>
+        Latitude : {{markerDetails.latitude}}
+        <br>
+        Description : {{markerDetails.description}}
+        <br>
+       
+</ng-container>
+</div>

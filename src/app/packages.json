@@ -1,0 +1,23 @@
+[
+{
+"titre":" Rdemet ash Sharqiyah",
+"longitude":36.7738708,
+"latitude":32.8966988,
+"description":"Le village de « Rdemet ash Sharqiyah » est le dernier village au nord-est du gouvernorat d'As-Suwayda, dont les terres s'étendent jusqu'au désert « Al-Hammad » à l'est, et touchent les vallées qui y coulent après un hiver orageux, et il est bordé au sud par le village de « Araja »." 
+
+},
+{
+    "titre":"Shaqqa",
+    "longitude":36.69472,
+    "latitude":32.89583,
+    "description":"Shaqqa ou Shakka est une ville syrienne du gouvernorat d'As Suwayda, dans le sud de la Syrie, dont les quelque 8 000 habitants sont principalement des Druzes, descendants de ceux qui ont émigré ici du Liban aux 18e et 19e siècles."
+    
+    },
+    {
+        "titre":"Umm az Zaytun",
+        "longitude":36.605556,
+        "latitude":32.905833,
+        "description":"Umm al-Zaytun est un village du gouvernorat d'al-Suwayda, dans le sud-ouest de la Syrie. Il est situé le long de la bordure sud-est du plateau de lave de Lejah, au nord-ouest de la ville d'al-Suwayda"
+    
+        }
+]
